@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.app_nfc.app-release-33:/layout_activity_main.xml.flat",
+        "source": "com.example.app_nfc.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\drawable_ic_nfc.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\drawable\\ic_nfc.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\xml_nfc_tech_filter.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\xml\\nfc_tech_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-release-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\minh\\.gradle\\daemon\\8.7\\com.example.app_nfc.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

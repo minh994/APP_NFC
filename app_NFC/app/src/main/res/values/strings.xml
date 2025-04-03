@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App NFC</string>
+    <string name="title_text">Ứng dụng Thanh toán NFC</string>
+    <string name="nfc_status">Đang chờ thẻ NFC...</string>
+    <string name="nfc_instruction">Đưa thẻ NFC vào gần điện thoại để đọc thông tin</string>
+    <string name="read_nfc">Đọc thẻ NFC</string>
+    <string name="nfc_not_supported">Thiết bị không hỗ trợ NFC</string>
+    <string name="nfc_disabled">NFC đang tắt. Vui lòng bật NFC trong cài đặt</string>
+    <string name="nfc_tap">Đang đọc thẻ NFC...</string>
+    <string name="nfc_error">Lỗi đọc thẻ NFC</string>
+    <string name="btn_pay">Thanh toán</string>
+    <string name="file_saved">Đã lưu thông tin vào file</string>
+    <string name="file_error">Lỗi khi lưu file</string>
+</resources> 
